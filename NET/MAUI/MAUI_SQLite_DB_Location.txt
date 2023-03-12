@@ -1,0 +1,4 @@
+When you create a DB with SQLite on MAUI, this DB is located on:
+--> ..../Packages/[random_number]/LocalCache/Local/
+
+Here are the Local DB.
